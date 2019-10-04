@@ -15,8 +15,8 @@ repository = ""
 [dependencies]
 
 [badges]
-is-it-maintained-issue-resolution = { repository = "spenserblack/to-kana-rs" }
-is-it-maintained-open-issues = { repository = "spenserblack/to-kana-rs" }
+is-it-maintained-issue-resolution = { repository = "user/repo" }
+is-it-maintained-open-issues = { repository = "user/repo" }
 # Options
 # - `actively-developed`: New features are being added and bugs are being fixed.
 # - `passively-maintained`: There are no plans for new features, but the maintainer intends to
