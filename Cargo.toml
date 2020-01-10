@@ -1,5 +1,5 @@
 [package]
-name = "template-rust-repo"
+name = ""
 version = "0.0.1"
 authors = ["First Last <user@email>"]
 edition = "2018"
@@ -9,6 +9,7 @@ readme = "README.md"
 keywords = []
 categories = []
 repository = ""
+publish = false # You should at least look at this file before you publish
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
